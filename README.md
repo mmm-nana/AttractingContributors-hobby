@@ -24,5 +24,5 @@ e.g. SODASHI
 2. Goldship
 3. Haru Urara
 4. Makibao
-5. El Condor Pasa
-6. Sumomomomomomo
+5. Sumomomomomomo
+6. Title Holder
