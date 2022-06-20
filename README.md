@@ -25,3 +25,5 @@ e.g. SODASHI
 3. Haru Urara
 4. Makibao
 5. Fire Engine
+6. El Condor Pasa
+7. Sumomomomomomo
