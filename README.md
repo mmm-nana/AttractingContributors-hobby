@@ -26,3 +26,6 @@ e.g. SODASHI
 4. Makibao
 5. Sumomomomomomo
 6. Title Holder
+7. Fire Engine
+8. El Condor Pasa
+9. Sumomomomomomo
