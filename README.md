@@ -25,3 +25,4 @@ e.g. SODASHI
 3. Haru Urara
 4. Makibao
 5. El Condor Pasa
+6. Sumomomomomomo
